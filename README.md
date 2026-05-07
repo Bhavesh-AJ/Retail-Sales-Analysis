@@ -13,7 +13,6 @@ The dataset was imported from a CSV file into PostgreSQL, where SQL queries were
 * PostgreSQL
 * SQL
 * Microsoft Power BI
-* Visual Studio Code
 * CSV Dataset (SuperStore Sales DataSet)
 
 ---
@@ -56,21 +55,13 @@ The dataset was imported from a CSV file into PostgreSQL, where SQL queries were
 
 ---
 
-## Dashboard Preview
-
-(Add your Power BI dashboard screenshot here)
-
----
-
 ## Project Files
 
 ```text
 retail-sales-analysis/
 │
-├── retail_sales_analysis.sql
 ├── retail_sales_analysis_filled.ipynb
 ├── SQL PROJECT 1.pbix
-├── dashboard.png
 ├── SuperStore Sales DataSet.csv
 └── README.md
 ```
