@@ -62,6 +62,7 @@ retail-sales-analysis/
 │
 ├── retail_sales_analysis_filled.ipynb
 ├── SQL PROJECT 1.pbix
+├── Retail Sales Analysis Project Report.docx
 ├── SuperStore Sales DataSet.csv
 └── README.md
 ```
